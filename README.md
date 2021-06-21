@@ -1,9 +1,10 @@
 # Haxe project
 
-This is an example Haxe project scaffolded by Visual Studio Code.
+This is avery tiny example on how to use tink_web and a sqlite db.
 
-Without further changes the structure is following:
 
- * `src/Main.hx`: Entry point Haxe source file
- * `build.hxml`: Haxe command line file used to build the project
- * `README.md`: This file
+for haxe dependencies
+run: lix download
+
+for nodejs dependencies
+npm install 
