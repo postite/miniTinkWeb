@@ -7,4 +7,4 @@ for haxe dependencies
 run: lix download
 
 for nodejs dependencies
-npm install 
+npm install  
