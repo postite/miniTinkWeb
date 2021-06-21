@@ -1,0 +1,13 @@
+-cp src
+-D analyzer-optimize
+-main MiniServer
+-lib tink_web
+-lib tink_http_middleware
+-lib tink_template
+-lib hxnodejs
+-lib tink_sql
+-D no-deprecation-warnings
+-D server
+--debug
+--js www/app.js
+
